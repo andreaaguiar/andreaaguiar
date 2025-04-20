@@ -1,37 +1,54 @@
-## Hi there 👋
-- 🔐 I'm currently working as a Cyber Security Analyst
-
-- 👍 I like playing CTFs
-
-- 😄 Pronouns: She/ Her
-
-- 💻 <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="115" height="28"> <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="115" height="28">
-
-##
-
 <div align="center">
-  <a href="https://github.com/andreaaguiar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreaaguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaaguiar&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <h1> Hi there 👋 I'm Andrea Aguiar </h1>
+  <h3> Senior Security Engineer | CTF Enthusiast | Cybersecurity Professional </h3>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aguiar-andrea)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AndreaBacon)
 </div>
-<br> 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andrea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andrea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andrea--React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Andrea-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Andrea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andrea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Andrea-pic" height="150" style="border-radius:50px;" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/ff68b9700b183f1a1930b69cc6d294d8.jpg">
-</div>
-  
-  ##
- 
-<div> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/AndreaBacon.png" alt="TryHackMe">
- 
-  ![Snake animation](https://github.com/andreaaguiar/andreaaguiar/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+## About Me
+
+- 🔐 Senior Security Engineer with expertise in compliance, vulnerability management, and security architecture
+- 🔥 Passionate about CTF competitions and security challenges
+- 📋 Utilizes industry standards like ISO, NIST, and CIS Controls for best practices
+- 🔍 Experienced in vulnerability assessments
+- 📚 Lifelong learner and cybersecurity advocate
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
+![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=fff)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
+![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=fff)
+
+## GitHub Stats
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=andreaaguiar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaaguiar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages"/></a>
+
+## Current Focus
+
+I'm currently working on:
+
+- Building secure compliance platform using modern tech stacks
+- Exploring advanced security automation and orchestration
+- Enhancing security architecture for cloud-native applications
