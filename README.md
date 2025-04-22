@@ -43,7 +43,7 @@
 
 ## GitHub Stats
 
-<img height=150 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api?username=andreaaguiar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats"/><img height=150 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api/top-langs?username=andreaaguiar&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Most Used Languages"/>
+<img height=200 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api?username=andreaaguiar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats"/><img height=200 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api/top-langs?username=andreaaguiar&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Most Used Languages"/>
 
 ## Current Focus
 
