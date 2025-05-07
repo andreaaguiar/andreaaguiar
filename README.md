@@ -3,7 +3,7 @@
   <h3> Senior Security Engineer | CTF Enthusiast | Cybersecurity Professional </h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aguiar-andrea)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AndreaBacon)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AndyAguiar)
 </div>
 
 ## About Me
