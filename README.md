@@ -33,6 +33,7 @@
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
@@ -46,7 +47,10 @@
 
 ## GitHub Stats
 
-<img height=170 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api?username=andreaaguiar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats"/><img height=170 align="center" src="https://github-readme-stats-omega-lilac.vercel.app/api/top-langs?username=andreaaguiar&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Most Used Languages"/>
+<div align="center">
+  <img height=170 src="https://github-readme-stats-omega-lilac.vercel.app/api?username=andreaaguiar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=9CA3AF&bg_color=ffffff00" alt="GitHub Stats"/>
+  <img height=170 src="https://github-readme-stats-omega-lilac.vercel.app/api/top-langs?username=andreaaguiar&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=9CA3AF&bg_color=ffffff00" alt="Most Used Languages"/>
+</div>
 
 ## Current Focus
 
