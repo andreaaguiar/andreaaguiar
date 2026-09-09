@@ -8,11 +8,9 @@
 
 ## About Me
 
-- 🔐 Senior SecOps Engineer at TON Foundation (three times the first and only security hire)
-- 🏆 Took a fintech to PCI DSS Level 1 (zero audit findings) and a SaaS company to SOC 2 Type 2 in one year
 - ⚙️ I build security programs from scratch and design everything for auditability and traceability
 - 🚩 CTF player and builder of my own security tooling
-- 🛠️ Comfortable across InfoSec, AppSec, CloudSec, and GRC
+- 🔐 Comfortable across InfoSec, AppSec, CloudSec, and GRC
 
 ## Featured Projects
 
